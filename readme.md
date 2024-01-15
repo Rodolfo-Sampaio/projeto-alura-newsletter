@@ -42,7 +42,7 @@ Veja nosso site adaptável em 🚩[Alura Newsletter](https://projeto-alura-newsl
 <br>
 
 
-### "Oi, editor de newsletters! 📰 Bem-vindo ao 'Estúdio de Novidades Code', onde cada linha de código molda a experiência digital da sua caixa de entrada! Se curtiu essa produção, dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos criar juntos os próximos envios de informação! 🚀💻 #CodeNewsStudio"
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=100&section=footer" alt="Waving Capsule Render">
 
